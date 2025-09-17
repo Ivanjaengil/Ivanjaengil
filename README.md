@@ -34,7 +34,7 @@
 
 ---
 
-### 🎓 [SouthWine](https://github.com/Ivanjaengil/SouthWine)  
+### 🎓 [SouthWines](https://github.com/Ivanjaengil/SouthWines)  
 📚 Plataforma de **cursos online**, enfocada en la enseñanza digital.  
 **Stack:** Laravel, PHP, MySQL, JavaScript  
 
