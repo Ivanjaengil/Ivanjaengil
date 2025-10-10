@@ -28,19 +28,19 @@
 
 ## 📂 Mis Proyectos  
 
-### 🛒 [TiendaLego](https://github.com/Ivanjaengil/TiendaLego)  
+### 🛒 [TiendaLego](https://github.com/Ivanjaengil/TiendaLego)  Terminado ✅
 🧱 Tienda online inspirada en productos **LEGO**.  
 **Stack:** HTML, CSS, JavaScript, PHP, MySQL  
 
 ---
 
-### 🎓 [SouthWines](https://github.com/Ivanjaengil/SouthWines)  
+### 🎓 [SouthWines](https://github.com/Ivanjaengil/SouthWines)  Terminado ✅
 📚 Plataforma de **cursos online**, enfocada en la enseñanza digital.  
 **Stack:** Laravel, PHP, MySQL, JavaScript  
 
 ---
 
-### ⚡ [ZestCharge](https://github.com/Ivanjaengil/ZestCharge)  
+### ⚡ [ZestCharge](https://github.com/Ivanjaengil/ZestCharge)  En proceso ⌛
 🥤 Tienda online especializada en **bebidas energéticas**.  
 **Stack:** Laravel, PHP, MySQL, JavaScript  
 
