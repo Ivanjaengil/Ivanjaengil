@@ -13,7 +13,7 @@
 
 ### 🌐 Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,less,sass,vite,wordpress" />
 </p>
 
 ### ⚙️ Backend  
@@ -23,7 +23,7 @@
 
 ### ☕ Otros Lenguajes y Herramientas  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,git,vscode,windows,xampp,azure,figma" />
+  <img src="https://skillicons.dev/icons?i=java,git,vscode,eclipse,linux,windows,xampp,azure,figma" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ### ⚡ [ZestCharge](https://github.com/Ivanjaengil/ZestCharge) — ⌛ En desarrollo  
 🥤 Tienda online especializada en **bebidas energéticas**.  
-**Stack:** Laravel, TypeScript, MySQL  
+**Stack:** Laravel, TypeScript, React, MySQL  
 
 ---
 
