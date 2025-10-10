@@ -23,7 +23,7 @@
 
 ### ☕ Otros Lenguajes y Herramientas  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,git,vscode,eclipse,linux,windows,xampp,azure,figma" />
+  <img src="https://skillicons.dev/icons?i=java,git,vscode,eclipse,linux,windows,azure,figma" />
 </p>
 
 ---
