@@ -2,8 +2,7 @@
 
 # 👨‍💻 Sobre mí  
 
-💡 Tengo 26 años y cuento con un **Grado Medio en Sistemas Microinformáticos y Redes** y **Grado Superior Desarrollo de Aplicaciones Web**.  
-📚 Actualmente curso un **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
+💡 Tengo 26 años y cuento con un **Grado Medio en Sistemas Microinformáticos y Redes** y **Grado Superior Desarrollo de Aplicaciones Web**. 
 🚀 Me apasiona el **desarrollo web**, aprender nuevas tecnologías y crear proyectos que reflejen mi crecimiento profesional.  
 🖥️ Además, he trabajado como **Operador Informático** durante mis prácticas, fortaleciendo mis habilidades técnicas y de resolución de problemas.  
 
