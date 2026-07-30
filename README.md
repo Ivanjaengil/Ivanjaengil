@@ -29,31 +29,31 @@
 
 ## 📂 Proyectos Destacados
 
-### 🛒 [TiendaLego](https://github.com/Ivanjaengil/TiendaLego) — ✅ Terminado
+### 🛒 [TiendaLego](https://github.com/Ivanjaengil/TiendaLego) — ![Status](https://img.shields.io/badge/Estado-Terminado-2ea44f?style=flat-square)
 🧱 Tienda online inspirada en productos **LEGO**.
 **Stack:** HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
-### 🎓 [SouthWines](https://github.com/Ivanjaengil/SouthWines) — ✅ Terminado
+### 🎓 [SouthWines](https://github.com/Ivanjaengil/SouthWines) — ![Status](https://img.shields.io/badge/Estado-Terminado-2ea44f?style=flat-square)
 📚 Plataforma de **cursos online** enfocada en la enseñanza digital.
 **Stack:** Laravel, PHP, MySQL, JavaScript
 
 ---
 
-### ⚡ [ZestCharge](https://github.com/Ivanjaengil/ZestCharge) — ⌛ En desarrollo
+### ⚡ [ZestCharge](https://github.com/Ivanjaengil/ZestCharge) — ![Status](https://img.shields.io/badge/Estado-En_desarrollo-dfb317?style=flat-square)
 🥤 Tienda online especializada en **bebidas energéticas**.
 **Stack:** Astro, TypeScript, MySQL
 
 ---
 
-### ☁️ [MeteoTech](https://github.com/Ivanjaengil/MeteoTech) — ✅ Terminado
+### ☁️ [MeteoTech](https://github.com/Ivanjaengil/MeteoTech) — ![Status](https://img.shields.io/badge/Estado-Terminado-2ea44f?style=flat-square)
 🌤️ Aplicación del tiempo que muestra el clima actual, pronóstico extendido y calidad del aire de cualquier ciudad.
 **Stack:** Angular, TypeScript
 
 ---
 
-### 🚗 [Driver&Go](https://github.com/Ivanjaengil/DriverGo) — ✅ Terminado
+### 🚗 [Driver&Go](https://github.com/Ivanjaengil/DriverGo) — ![Status](https://img.shields.io/badge/Estado-En_desarrollo-dfb317?style=flat-square)
 🚙 Plataforma de alquiler/reserva de vehículos.
 **Stack:** Laravel, TypeScript, CSS, JavaScript, PHP, MySQL
 
