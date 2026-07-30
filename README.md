@@ -1,49 +1,49 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=¡Hola!%20Soy%20Iván%20👋%0ADesarrollador%20Web%20Jr.&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 👨‍💻 Sobre mí  
+# 👨‍💻 Sobre mí
 
-💡 Tengo 26 años y cuento con un **Grado Medio en Sistemas Microinformáticos y Redes** y **Grado Superior Desarrollo de Aplicaciones Web**. 
-🚀 Me apasiona el **desarrollo web**, aprender nuevas tecnologías y crear proyectos que reflejen mi crecimiento profesional.  
-🖥️ Además, he trabajado como **Operador Informático** durante mis prácticas, fortaleciendo mis habilidades técnicas y de resolución de problemas.  
+💡 Tengo 26 años y cuento con un **Grado Medio en Sistemas Microinformáticos y Redes** y **Grado Superior Desarrollo de Aplicaciones Web**.
+🚀 Me apasiona el **desarrollo web**, aprender nuevas tecnologías y crear proyectos que reflejen mi crecimiento profesional.
+🖥️ Además, he trabajado como **Operador Informático** durante mis prácticas, fortaleciendo mis habilidades técnicas y de resolución de problemas.
 
 ---
 
-## 🛠️ Lenguajes y Tecnologías  
+## 🛠️ Lenguajes y Tecnologías
 
-### 🌐 Frontend  
+### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,less,sass,vite,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,astro,less,sass,vite,wordpress" />
 </p>
 
-### ⚙️ Backend  
+### ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
 
-### ☕ Otros Lenguajes y Herramientas  
+### ☕ Otros Lenguajes y Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,git,vscode,eclipse,linux,windows,azure,figma" />
 </p>
 
 ---
 
-## 📂 Proyectos Destacados  
+## 📂 Proyectos Destacados
 
-### 🛒 [TiendaLego](https://github.com/Ivanjaengil/TiendaLego) — ✅ Terminado  
-🧱 Tienda online inspirada en productos **LEGO**.  
-**Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-
----
-
-### 🎓 [SouthWines](https://github.com/Ivanjaengil/SouthWines) — ✅ Terminado  
-📚 Plataforma de **cursos online** enfocada en la enseñanza digital.  
-**Stack:** Laravel, PHP, MySQL, JavaScript  
+### 🛒 [TiendaLego](https://github.com/Ivanjaengil/TiendaLego) — ✅ Terminado
+🧱 Tienda online inspirada en productos **LEGO**.
+**Stack:** HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
-### ⚡ [ZestCharge](https://github.com/Ivanjaengil/ZestCharge) — ⌛ En desarrollo  
-🥤 Tienda online especializada en **bebidas energéticas**.  
-**Stack:** Laravel, TypeScript, React, MySQL  
+### 🎓 [SouthWines](https://github.com/Ivanjaengil/SouthWines) — ✅ Terminado
+📚 Plataforma de **cursos online** enfocada en la enseñanza digital.
+**Stack:** Laravel, PHP, MySQL, JavaScript
+
+---
+
+### ⚡ [ZestCharge](https://github.com/Ivanjaengil/ZestCharge) — ⌛ En desarrollo
+🥤 Tienda online especializada en **bebidas energéticas**.
+**Stack:** Astro, TypeScript, MySQL
 
 ---
 
