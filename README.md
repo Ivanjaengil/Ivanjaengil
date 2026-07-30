@@ -53,7 +53,7 @@
 
 ---
 
-### 🚗 [Driver&Go](https://github.com/Ivanjaengil/DriverGo) — ⌛ En desarrollo
+### 🚗 [Driver&Go](https://github.com/Ivanjaengil/DriverGo) — ✅ Terminado
 🚙 Plataforma de alquiler/reserva de vehículos.
 **Stack:** Laravel, TypeScript, CSS, JavaScript, PHP, MySQL
 
